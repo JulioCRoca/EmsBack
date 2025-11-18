@@ -126,6 +126,7 @@
     </dependencies>
 
     <build>
+        <finalName>emsx</finalName>
         <plugins>
 
             <!-- ✅ Compilador Maven (MapStruct + Lombok integrados) -->
